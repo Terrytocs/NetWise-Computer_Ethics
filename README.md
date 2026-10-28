@@ -1,1 +1,1 @@
-A repository for school related projects.
+A repository for computer ethics assignment.
